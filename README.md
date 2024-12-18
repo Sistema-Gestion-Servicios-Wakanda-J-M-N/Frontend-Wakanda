@@ -20,7 +20,7 @@
 
 ## Participantes del proyecto
 
-Jaime López Díaz
-Marcos García Benito
-Nicolas Jimenez
-Juan Manuel
+- Jaime López Díaz
+- Marcos García Benito
+- Nicolas Jimenez
+- Juan Manuel
